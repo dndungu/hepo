@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v1
+description: A Helm chart for dndungu/blankpage
+name: blankpage
+version: 0.1.0
+
+...
+files:
+  blankpage-0.1.0.tgz: sha256:9f19298882d295e2a9a0049a846e65b4074f26927ee0a08870793e3ef2c87a7d
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCgAQBQJaCWt4CRDuEoEEttQRfgAAvtYQACeqUkS+9iz919r013n8lH1+
+MUNaLb/y32uDYvyANdjM1DI2LMD5dCm8lflz+gE2poRN6XGOEX1hR90Zml4vm2v2
+SZIR6OGacQlEZu9x5kI5NZ03rlLIr56lf5JRadCqEXLGAJM07et61NcS9mLGAsbB
+5oAf1Wvar95S+aMQj+xnL+OBD6KKnPpXvyTSm53owIh6ZzJF8Nnt5OrKliIHliJB
+EpeEYuncYpOhjPO+w60cY/VuQFbjeXyUtjCJz1vusfBlZTGG5SxxfwiOVU9g5RXC
+sCqE3xSAMFKWYIBlca+d2Z4krtgkQlndXHeYJuxGBRL+nKEQ3pCGJOk5HU0E/6F5
+Jbd9fog38gOodxfwnGVaPNPV84CHc6qjITcbeoMkLebLAVg+f37DeOO4v+sjkJPR
+37eUPiSmFx6gfu50FgUCGgOa3HDtN5vuGk5k7+quPCQmRVedEriZjfnq5OxiXlUG
+ychRKuxos8iDh7Iaoeh3UBV7FmvfNdjLvH8lZsRSGAZ/4+Di1sD1ie2VbBTbHmF5
+eHFGfnno9QxLNCEwiH9lOKdXigactFNuzu8upqOZaqxQw9h3H+ldQ4/qA70zSLxs
+pfTfPCH8WzrBDujBQDZec1/zBOXy5tSV6BV9agEwk4HTzJhGUUv+9b5f9HTDYudT
+DvQ5uwQ3hFhz31iiENsD
+=aCQS
+-----END PGP SIGNATURE-----

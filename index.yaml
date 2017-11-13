@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  blankpage:
+  - apiVersion: v1
+    created: 2017-11-13T01:53:02.596873073-08:00
+    description: A Helm chart for dndungu/blankpage
+    digest: 9f19298882d295e2a9a0049a846e65b4074f26927ee0a08870793e3ef2c87a7d
+    name: blankpage
+    urls:
+    - https://dndungu.github.io/hepo/blankpage-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-11-13T01:53:02.596462921-08:00
